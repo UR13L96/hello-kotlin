@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Hello Kotlin</string>
+    <string name="tts_ready">Ready!</string>
+    <string name="tts_not_available">Not available :c</string>
+    <string name="tts_message_empty">The message is empty</string>
+    <string name="tts_hint_message">Message</string>
+    <string name="tts_button_play">Play</string>
+    <string name="tts_text_status_init">Hello Kotlin!</string>
 </resources>
